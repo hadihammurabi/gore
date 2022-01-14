@@ -1,3 +1,5 @@
+# Moved to [https://github.com/goreq/goreq](https://github.com/goreq/goreq)
+
 # GoRe (Go Requester)
 Simple HTTP client for Go
 
